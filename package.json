@@ -1,0 +1,11 @@
+{
+  "name": "life-node-editor",
+  "version": "0.0.0",
+  "description": "人生节点编辑器",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0",
+    "start": "open index.html"
+  },
+  "author": "kk",
+  "license": "MIT"
+}
